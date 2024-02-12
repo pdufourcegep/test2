@@ -1,0 +1,20 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: verdana, sans-serif;
+  background-color: white;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 90%;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 24px;
+}/*# sourceMappingURL=styles.css.map */
