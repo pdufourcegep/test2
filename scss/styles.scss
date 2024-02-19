@@ -1,0 +1,23 @@
+/*** Importation de Boostrap **/
+// NE PAS TOUCHER */
+@import "partials/bootstrap";
+
+/*** Début des styles personnalisés ***/
+/* Exemple si on veut personnaliser la navigation */
+$main-color:blue;
+nav {
+    padding         : 15px;
+    background-color: $main-color;
+    color: white;
+    a {
+        color       : white;
+        margin-right: 20px;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+
+
